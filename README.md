@@ -30,7 +30,7 @@
 <img src="https://komarev.com/ghpvc/?username=imvinojanv&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
 </p>
 
-🔗 Visit Medium - [@imvinojanv](https://medium.com/@imvinojanv) 📝
+🌐 Portfolio Site - [imvinojanv.dev](https://www.imvinojanv.dev/)  ➖ 📝 Medium Articles - [@imvinojanv](https://medium.com/@imvinojanv)
 
 <!-- //////// GitHub Stats /////////////-->
 ## 📈 GitHub Stats
