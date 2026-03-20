@@ -27,14 +27,14 @@
 
 <!-- Counter of profile viewers -->
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=imvinojanv&label=Profile%20views&color=0e75b6&style=flat" alt="vinojan1999" /> 
+<img src="https://komarev.com/ghpvc/?username=imvinojanv&label=Profile%20views&color=0e75b6&style=flat" alt="imvinojanv" /> 
 </p>
 
 🌐 Portfolio Site - [imvinojanv.dev](https://www.imvinojanv.dev/)  ➖ 📝 Medium Articles - [@imvinojanv](https://medium.com/@imvinojanv)
 
 <!-- //////// GitHub Stats /////////////-->
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvinojanv&hide_progress=true&langs_count=20&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imvinojanv&hide_progress=true&langs_count=24&theme=dark)
 
 ## ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
